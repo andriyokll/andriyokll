@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Andriy
 - 👀 I am interested in IT and sports
-- 🌱 I am currently studying at WUNU
+- 🌱 I am studying at WUNU
 - 📫 I often visit Ternopil
 
 <!---
